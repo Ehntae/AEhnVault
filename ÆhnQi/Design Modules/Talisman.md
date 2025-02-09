@@ -6,4 +6,3 @@
   - Remote casting
   - Weapon ammunition
   - Technique storage
-test
