@@ -1,14 +1,14 @@
 _*
 
 # Obsidian workspace settings
-#.obsidian/
+.obsidian/
 
 # Obsidian workspace cache
-#.obsidian.cache/
-#.obsidian.cache/**/*
+.obsidian.cache/
+.obsidian.cache/**/*
 
 # Obsidian mobile workspace settings
-#.obsidian.mobile/
+.obsidian.mobile/
 
 # Hot reload cache for plugins
 .hot-reload.json
