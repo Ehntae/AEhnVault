@@ -1,0 +1,40 @@
+_*
+
+# Obsidian workspace settings
+.obsidian/
+
+# Obsidian workspace cache
+.obsidian.cache/
+.obsidian.cache/**/*
+
+# Obsidian mobile workspace settings
+.obsidian.mobile/
+
+# Hot reload cache for plugins
+.hot-reload.json
+
+# Workspace cache
+workspace.json
+workspace
+
+# Plugin data and settings
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+
+# Lock files
+.obsidian/cache
+.obsidian/workspace.json
+
+# Sync plugins and settings
+.obsidian/sync.json
+
+# Temporary files
+.temp
+*.temp
+~*
+
+# System files
+.DS_Store
+desktop.ini
+Thumbs.db
